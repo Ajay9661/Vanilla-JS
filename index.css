@@ -1,0 +1,9 @@
+.heading{
+    color: brown;
+}
+body{
+    background-color: rgb(183, 207, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
